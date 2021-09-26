@@ -10,7 +10,7 @@
 <channel>
 	<title>Các sản phẩm khác &#8211; Hoa Mọc Trên Cung Trăng</title>
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/phu-kien-khac/cac-san-pham-khac/feed/" rel="self" type="application/rss+xml" />
-	<link>https://annthuy.github.io/nhuthuy_wordpress</link>
+	<link>https://annthuy.github.io/annthuy_wordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Sun, 26 Sep 2021 08:22:00 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
-	<url>https://annthuy.github.io/nhuthuy_wordpress/wp-content/uploads/2021/09/R.gif</url>
+	<url>https://annthuy.github.io/annthuy_wordpress/wp-content/uploads/2021/09/R.gif</url>
 	<title>Các sản phẩm khác &#8211; Hoa Mọc Trên Cung Trăng</title>
-	<link>https://annthuy.github.io/nhuthuy_wordpress</link>
+	<link>https://annthuy.github.io/annthuy_wordpress</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
